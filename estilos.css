@@ -1,0 +1,26 @@
+
+
+.s {
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+.s li a{
+    
+    font-family: Arial;
+    font-size: 100%;
+    text-decoration: none;
+    float: left;
+    padding: 30px;
+    background-color: #6090b8b4;
+    color: #fff;
+}
+
+.s li a:hover{
+    background-color: #2586d7;
+    margin-top: -2;
+    padding-bottom: 2px;
+}
